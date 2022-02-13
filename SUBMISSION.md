@@ -1,4 +1,5 @@
-The link: [images](images)
+# The link: [images](images)
+
 Your GitHub account showing that is has been forked from the depaulcdm/spring-petclinic repository. This doesn’t actually need an image – I can see it from your repository.
 ![Screen Capture #1](images/1.png)
 Your GitHub Actions dashboard showing a successful first build.
